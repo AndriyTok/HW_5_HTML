@@ -4,22 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aad01d51-4247-42e0-9f85-3207c0704501" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_1/5_1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_1/5_1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_1/Battle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_1/Chessboard.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_1/Ds3 Tool.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_2/5_2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_2/5_2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_2/android-chrome-192x192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_2/android-chrome-512x512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_2/apple-touch-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_2/favicon-16x16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_2/favicon-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_2/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_2/site.webmanifest" afterDir="false" />
+    <list default="true" id="aad01d51-4247-42e0-9f85-3207c0704501" name="Changes" comment="Виконав завдання 5.2">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_1/5_1.css" beforeDir="false" afterPath="$PROJECT_DIR$/5_1/5_1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_1/5_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/5_1/5_1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,8 +65,17 @@
       <updated>1707733876360</updated>
       <workItem from="1707733877465" duration="1292000" />
       <workItem from="1707743746479" duration="31000" />
-      <workItem from="1707743779206" duration="2849000" />
+      <workItem from="1707743779206" duration="7851000" />
     </task>
+    <task id="LOCAL-00001" summary="Виконав завдання 5.2">
+      <option name="closed" value="true" />
+      <created>1707746675815</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707746675815</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,5 +94,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Виконав завдання 5.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Виконав завдання 5.2" />
   </component>
 </project>
