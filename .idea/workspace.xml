@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aad01d51-4247-42e0-9f85-3207c0704501" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_1/5_1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_1/5_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_1/Battle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_1/Chessboard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_1/Ds3 Tool.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_2/5_2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_2/5_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_2/android-chrome-192x192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_2/android-chrome-512x512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_2/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_2/favicon-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_2/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_2/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_2/site.webmanifest" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2cGhI5fvJn0kJisytWn4BKSzAam" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aad01d51-4247-42e0-9f85-3207c0704501" name="Changes" comment="" />
+      <created>1707733876360</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707733876360</updated>
+      <workItem from="1707733877465" duration="1292000" />
+      <workItem from="1707743746479" duration="31000" />
+      <workItem from="1707743779206" duration="2849000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
